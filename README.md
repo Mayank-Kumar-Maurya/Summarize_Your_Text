@@ -1,8 +1,8 @@
-## 🔍 DEEP CODE ANALYSIS REPORT
+## 🔍 Summarize_Your_Text
 
-### 1. Repository Classification
-This project is classified as a **Hybrid: Application/Web App & Data Science/ML Project**.
-It combines a simple web interface for user interaction with a Python backend powered by machine learning models (specifically, a text summarization model) developed and explored within Jupyter Notebooks.
+## 1. 📖 Overview
+
+"Summarize Your Text" is a user-friendly web application designed to help you quickly grasp the essence of any long document or article. It combines a clean frontend interface with a robust Python backend powered by state-of-the-art Natural Language Processing (NLP) models. This project demonstrates how to integrate powerful machine learning capabilities into an interactive web service, making text summarization accessible to everyone.
 
 ### 2. Technology Stack Detection
 
@@ -52,11 +52,6 @@ The repository has a flat structure, typical for smaller, focused projects, comp
 
 ---
 
-
-
-## 📖 Overview
-
-"Summarize Your Text" is a user-friendly web application designed to help you quickly grasp the essence of any long document or article. It combines a clean frontend interface with a robust Python backend powered by state-of-the-art Natural Language Processing (NLP) models. This project demonstrates how to integrate powerful machine learning capabilities into an interactive web service, making text summarization accessible to everyone.
 
 ## ✨ Features
 
